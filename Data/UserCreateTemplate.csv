@@ -1,0 +1,302 @@
+version:v1.0
+Nombreparamostrar [displayName] Obligatorio,Nombre de usuario [userPrincipalName] Obligatorio,Contraseña inicial [passwordProfile] Obligatorio,Bloquear inicio de sesión (Sí/No) [accountEnabled] Obligatorio,Nombre [givenName],Apellidos [surname],Puesto [jobTitle],Departamento [department],Ubicacion de uso [usageLocation],Calle [streetAddress],Estado o provincia [state],Pais o region [country],Codigo postal [postalCode],Ciudad [city]
+Alejandro Garcia,alejandro.garcia@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Alejandro,Garcia,IT Specialist,it-sistemas,ES,Calle Gran Via 1,Madrid,España,28013,Madrid
+Lucia Fernandez,lucia.fernandez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Lucia,Fernandez,Controller,finanzas,ES,Calle Gran Via 2,Madrid,España,28013,Madrid
+Carlos Rodriguez,carlos.rodriguez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Carlos,Rodriguez,Creative Designer,marketing,ES,Calle Gran Via 3,Madrid,España,28013,Madrid
+Elena Martinez,elena.martinez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Elena,Martinez,Talent Acquisition Specialist,recursos-humanos,ES,Calle Gran Via 4,Madrid,España,28013,Madrid
+David Lopez,david.lopez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,David,Lopez,Board Member,directivos,ES,Calle Gran Via 5,Madrid,España,28013,Madrid
+Sofia Sanchez,sofia.sanchez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Sofia,Sanchez,Document Specialist,shared,ES,Calle Gran Via 6,Madrid,España,28013,Madrid
+Javier Perez,javier.perez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Javier,Perez,Developer,it-sistemas,ES,Calle Gran Via 7,Madrid,España,28013,Madrid
+Marta Gomez,marta.gomez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Marta,Gomez,Finance Manager,finanzas,ES,Calle Gran Via 8,Madrid,España,28013,Madrid
+Pablo Ruiz,pablo.ruiz@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Pablo,Ruiz,Growth Analyst,marketing,ES,Calle Gran Via 9,Madrid,España,28013,Madrid
+Laura Diaz,laura.diaz@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Laura,Diaz,HR Director,recursos-humanos,ES,Calle Gran Via 10,Madrid,España,28013,Madrid
+Diego Torres,diego.torres@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Diego,Torres,CEO,directivos,ES,Calle Gran Via 11,Madrid,España,28013,Madrid
+Carmen Morales,carmen.morales@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Carmen,Morales,Office Manager,shared,ES,Calle Gran Via 12,Madrid,España,28013,Madrid
+Sergio Vazquez,sergio.vazquez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Sergio,Vazquez,Network Engineer,it-sistemas,ES,Calle Gran Via 13,Madrid,España,28013,Madrid
+Paula Castro,paula.castro@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Paula,Castro,Accountant,finanzas,ES,Calle Gran Via 14,Madrid,España,28013,Madrid
+Marcos Romero,marcos.romero@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Marcos,Romero,SEO Manager,marketing,ES,Calle Gran Via 15,Madrid,España,28013,Madrid
+Raquel Navarro,raquel.navarro@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Raquel,Navarro,Payroll Specialist,recursos-humanos,ES,Calle Gran Via 16,Madrid,España,28013,Madrid
+Adrian Murillo,adrian.murillo@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Adrian,Murillo,Chief of Staff,directivos,ES,Calle Gran Via 17,Madrid,España,28013,Madrid
+Beatriz Mendez,beatriz.mendez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Beatriz,Mendez,Executive Assistant,shared,ES,Calle Gran Via 18,Madrid,España,28013,Madrid
+Hugo Blanco,hugo.blanco@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Hugo,Blanco,Systems Architect,it-sistemas,ES,Calle Gran Via 19,Madrid,España,28013,Madrid
+Sara Delgado,sara.delgado@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Sara,Delgado,Compliance Officer,finanzas,ES,Calle Gran Via 20,Madrid,España,28013,Madrid
+Alberto Jimenez,alberto.jimenez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Alberto,Jimenez,Content Manager,marketing,ES,Calle Gran Via 21,Madrid,España,28013,Madrid
+Natalia Herrera,natalia.herrera@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Natalia,Herrera,Recruiter,recursos-humanos,ES,Calle Gran Via 22,Madrid,España,28013,Madrid
+Ruben Ortiz,ruben.ortiz@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Ruben,Ortiz,COO,directivos,ES,Calle Gran Via 23,Madrid,España,28013,Madrid
+Patricia Molina,patricia.molina@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Patricia,Molina,Receptionist,shared,ES,Calle Gran Via 24,Madrid,España,28013,Madrid
+Fernando Vidal,fernando.vidal@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Fernando,Vidal,SysAdmin,it-sistemas,ES,Calle Gran Via 25,Madrid,España,28013,Madrid
+Irene Santos,irene.santos@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Irene,Santos,Tax Specialist,finanzas,ES,Calle Gran Via 1,Madrid,España,28013,Madrid
+Oscar Ramos,oscar.ramos@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Oscar,Ramos,Campaign Manager,marketing,ES,Calle Gran Via 2,Madrid,España,28013,Madrid
+Claudia Gil,claudia.gil@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Claudia,Gil,Compensation Analyst,recursos-humanos,ES,Calle Gran Via 3,Madrid,España,28013,Madrid
+Daniel Leon,daniel.leon@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Daniel,Leon,VP Finance,directivos,ES,Calle Gran Via 4,Madrid,España,28013,Madrid
+Andrea Ortega,andrea.ortega@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Andrea,Ortega,Business Analyst,shared,ES,Calle Gran Via 5,Madrid,España,28013,Madrid
+Victor Reyes,victor.reyes@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Victor,Reyes,IT Specialist,it-sistemas,ES,Calle Gran Via 6,Madrid,España,28013,Madrid
+Cristina Prieto,cristina.prieto@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Cristina,Prieto,Controller,finanzas,ES,Calle Gran Via 7,Madrid,España,28013,Madrid
+Alvaro Flores,alvaro.flores@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Alvaro,Flores,Creative Designer,marketing,ES,Calle Gran Via 8,Madrid,España,28013,Madrid
+Silvia Cruz,silvia.cruz@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Silvia,Cruz,Talent Acquisition Specialist,recursos-humanos,ES,Calle Gran Via 9,Madrid,España,28013,Madrid
+Guillermo Dominguez,guillermo.dominguez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Guillermo,Dominguez,Board Member,directivos,ES,Calle Gran Via 10,Madrid,España,28013,Madrid
+Monica Marquez,monica.marquez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Monica,Marquez,Document Specialist,shared,ES,Calle Gran Via 11,Madrid,España,28013,Madrid
+Ivan Cabrera,ivan.cabrera@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Ivan,Cabrera,Developer,it-sistemas,ES,Calle Gran Via 12,Madrid,España,28013,Madrid
+Noelia Vega,noelia.vega@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Noelia,Vega,Finance Manager,finanzas,ES,Calle Gran Via 13,Madrid,España,28013,Madrid
+Samuel Garcia,samuel.garcia@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Samuel,Garcia,Growth Analyst,marketing,ES,Calle Gran Via 14,Madrid,España,28013,Madrid
+Luciana Fernandez,luciana.fernandez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Luciana,Fernandez,HR Director,recursos-humanos,ES,Calle Gran Via 15,Madrid,España,28013,Madrid
+Alejandro Rodriguez,alejandro.rodriguez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Alejandro,Rodriguez,CEO,directivos,ES,Calle Gran Via 16,Madrid,España,28013,Madrid
+Lucia Martinez,lucia.martinez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Lucia,Martinez,Office Manager,shared,ES,Calle Gran Via 17,Madrid,España,28013,Madrid
+Carlos Lopez,carlos.lopez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Carlos,Lopez,Network Engineer,it-sistemas,ES,Calle Gran Via 18,Madrid,España,28013,Madrid
+Elena Sanchez,elena.sanchez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Elena,Sanchez,Accountant,finanzas,ES,Calle Gran Via 19,Madrid,España,28013,Madrid
+David Perez,david.perez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,David,Perez,SEO Manager,marketing,ES,Calle Gran Via 20,Madrid,España,28013,Madrid
+Sofia Gomez,sofia.gomez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Sofia,Gomez,Payroll Specialist,recursos-humanos,ES,Calle Gran Via 21,Madrid,España,28013,Madrid
+Javier Ruiz,javier.ruiz@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Javier,Ruiz,Chief of Staff,directivos,ES,Calle Gran Via 22,Madrid,España,28013,Madrid
+Marta Diaz,marta.diaz@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Marta,Diaz,Executive Assistant,shared,ES,Calle Gran Via 23,Madrid,España,28013,Madrid
+Pablo Torres,pablo.torres@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Pablo,Torres,Systems Architect,it-sistemas,ES,Calle Gran Via 24,Madrid,España,28013,Madrid
+Laura Morales,laura.morales@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Laura,Morales,Compliance Officer,finanzas,ES,Calle Gran Via 25,Madrid,España,28013,Madrid
+Diego Vazquez,diego.vazquez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Diego,Vazquez,Content Manager,marketing,ES,Calle Gran Via 1,Madrid,España,28013,Madrid
+Carmen Castro,carmen.castro@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Carmen,Castro,Recruiter,recursos-humanos,ES,Calle Gran Via 2,Madrid,España,28013,Madrid
+Sergio Romero,sergio.romero@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Sergio,Romero,COO,directivos,ES,Calle Gran Via 3,Madrid,España,28013,Madrid
+Paula Navarro,paula.navarro@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Paula,Navarro,Receptionist,shared,ES,Calle Gran Via 4,Madrid,España,28013,Madrid
+Marcos Murillo,marcos.murillo@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Marcos,Murillo,SysAdmin,it-sistemas,ES,Calle Gran Via 5,Madrid,España,28013,Madrid
+Raquel Mendez,raquel.mendez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Raquel,Mendez,Tax Specialist,finanzas,ES,Calle Gran Via 6,Madrid,España,28013,Madrid
+Adrian Blanco,adrian.blanco@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Adrian,Blanco,Campaign Manager,marketing,ES,Calle Gran Via 7,Madrid,España,28013,Madrid
+Beatriz Delgado,beatriz.delgado@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Beatriz,Delgado,Compensation Analyst,recursos-humanos,ES,Calle Gran Via 8,Madrid,España,28013,Madrid
+Hugo Jimenez,hugo.jimenez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Hugo,Jimenez,VP Finance,directivos,ES,Calle Gran Via 9,Madrid,España,28013,Madrid
+Sara Herrera,sara.herrera@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Sara,Herrera,Business Analyst,shared,ES,Calle Gran Via 10,Madrid,España,28013,Madrid
+Alberto Ortiz,alberto.ortiz@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Alberto,Ortiz,IT Specialist,it-sistemas,DE,Unter den Linden 11,Berlin,Alemania,10117,Berlin
+Natalia Molina,natalia.molina@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Natalia,Molina,Controller,finanzas,DE,Unter den Linden 12,Berlin,Alemania,10117,Berlin
+Ruben Vidal,ruben.vidal@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Ruben,Vidal,Creative Designer,marketing,DE,Unter den Linden 13,Berlin,Alemania,10117,Berlin
+Patricia Santos,patricia.santos@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Patricia,Santos,Talent Acquisition Specialist,recursos-humanos,DE,Unter den Linden 14,Berlin,Alemania,10117,Berlin
+Fernando Ramos,fernando.ramos@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Fernando,Ramos,Board Member,directivos,DE,Unter den Linden 15,Berlin,Alemania,10117,Berlin
+Irene Gil,irene.gil@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Irene,Gil,Document Specialist,shared,DE,Unter den Linden 16,Berlin,Alemania,10117,Berlin
+Oscar Leon,oscar.leon@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Oscar,Leon,Developer,it-sistemas,DE,Unter den Linden 17,Berlin,Alemania,10117,Berlin
+Claudia Ortega,claudia.ortega@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Claudia,Ortega,Finance Manager,finanzas,DE,Unter den Linden 18,Berlin,Alemania,10117,Berlin
+Daniel Reyes,daniel.reyes@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Daniel,Reyes,Growth Analyst,marketing,DE,Unter den Linden 19,Berlin,Alemania,10117,Berlin
+Andrea Prieto,andrea.prieto@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Andrea,Prieto,HR Director,recursos-humanos,DE,Unter den Linden 20,Berlin,Alemania,10117,Berlin
+Victor Flores,victor.flores@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Victor,Flores,CEO,directivos,DE,Unter den Linden 21,Berlin,Alemania,10117,Berlin
+Cristina Cruz,cristina.cruz@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Cristina,Cruz,Office Manager,shared,DE,Unter den Linden 22,Berlin,Alemania,10117,Berlin
+Alvaro Dominguez,alvaro.dominguez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Alvaro,Dominguez,Network Engineer,it-sistemas,DE,Unter den Linden 23,Berlin,Alemania,10117,Berlin
+Silvia Marquez,silvia.marquez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Silvia,Marquez,Accountant,finanzas,DE,Unter den Linden 24,Berlin,Alemania,10117,Berlin
+Guillermo Cabrera,guillermo.cabrera@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Guillermo,Cabrera,SEO Manager,marketing,DE,Unter den Linden 25,Berlin,Alemania,10117,Berlin
+Monica Vega,monica.vega@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Monica,Vega,Payroll Specialist,recursos-humanos,GB,Oxford Street 1,London,Reino Unido,W1D 1BS,London
+Ivan Garcia,ivan.garcia@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Ivan,Garcia,Chief of Staff,directivos,GB,Oxford Street 2,London,Reino Unido,W1D 1BS,London
+Noelia Fernandez,noelia.fernandez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Noelia,Fernandez,Executive Assistant,shared,GB,Oxford Street 3,London,Reino Unido,W1D 1BS,London
+Samuel Rodriguez,samuel.rodriguez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Samuel,Rodriguez,Systems Architect,it-sistemas,GB,Oxford Street 4,London,Reino Unido,W1D 1BS,London
+Luciana Martinez,luciana.martinez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Luciana,Martinez,Compliance Officer,finanzas,GB,Oxford Street 5,London,Reino Unido,W1D 1BS,London
+Alejandro Lopez,alejandro.lopez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Alejandro,Lopez,Content Manager,marketing,GB,Oxford Street 6,London,Reino Unido,W1D 1BS,London
+Lucia Sanchez,lucia.sanchez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Lucia,Sanchez,Recruiter,recursos-humanos,GB,Oxford Street 7,London,Reino Unido,W1D 1BS,London
+Carlos Perez,carlos.perez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Carlos,Perez,COO,directivos,GB,Oxford Street 8,London,Reino Unido,W1D 1BS,London
+Elena Gomez,elena.gomez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Elena,Gomez,Receptionist,shared,GB,Oxford Street 9,London,Reino Unido,W1D 1BS,London
+David Ruiz,david.ruiz@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,David,Ruiz,SysAdmin,it-sistemas,GB,Oxford Street 10,London,Reino Unido,W1D 1BS,London
+Sofia Diaz,sofia.diaz@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Sofia,Diaz,Tax Specialist,finanzas,GB,Oxford Street 11,London,Reino Unido,W1D 1BS,London
+Javier Torres,javier.torres@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Javier,Torres,Campaign Manager,marketing,GB,Oxford Street 12,London,Reino Unido,W1D 1BS,London
+Marta Morales,marta.morales@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Marta,Morales,Compensation Analyst,recursos-humanos,GB,Oxford Street 13,London,Reino Unido,W1D 1BS,London
+Pablo Vazquez,pablo.vazquez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Pablo,Vazquez,VP Finance,directivos,GB,Oxford Street 14,London,Reino Unido,W1D 1BS,London
+Laura Castro,laura.castro@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Laura,Castro,Business Analyst,shared,GB,Oxford Street 15,London,Reino Unido,W1D 1BS,London
+Diego Romero,diego.romero@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Diego,Romero,IT Specialist,it-sistemas,IT,Via Monte Napoleone 16,Lombardia,Italia,20121,Milan
+Carmen Navarro,carmen.navarro@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Carmen,Navarro,Controller,finanzas,IT,Via Monte Napoleone 17,Lombardia,Italia,20121,Milan
+Sergio Murillo,sergio.murillo@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Sergio,Murillo,Creative Designer,marketing,IT,Via Monte Napoleone 18,Lombardia,Italia,20121,Milan
+Paula Mendez,paula.mendez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Paula,Mendez,Talent Acquisition Specialist,recursos-humanos,IT,Via Monte Napoleone 19,Lombardia,Italia,20121,Milan
+Marcos Blanco,marcos.blanco@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Marcos,Blanco,Board Member,directivos,IT,Via Monte Napoleone 20,Lombardia,Italia,20121,Milan
+Raquel Delgado,raquel.delgado@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Raquel,Delgado,Document Specialist,shared,IT,Via Monte Napoleone 21,Lombardia,Italia,20121,Milan
+Adrian Jimenez,adrian.jimenez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Adrian,Jimenez,Developer,it-sistemas,IT,Via Monte Napoleone 22,Lombardia,Italia,20121,Milan
+Beatriz Herrera,beatriz.herrera@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Beatriz,Herrera,Finance Manager,finanzas,IT,Via Monte Napoleone 23,Lombardia,Italia,20121,Milan
+Hugo Ortiz,hugo.ortiz@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Hugo,Ortiz,Growth Analyst,marketing,IT,Via Monte Napoleone 24,Lombardia,Italia,20121,Milan
+Sara Molina,sara.molina@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Sara,Molina,HR Director,recursos-humanos,IT,Via Monte Napoleone 25,Lombardia,Italia,20121,Milan
+Alberto Vidal,alberto.vidal@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Alberto,Vidal,CEO,directivos,IT,Via Monte Napoleone 1,Lombardia,Italia,20121,Milan
+Natalia Santos,natalia.santos@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Natalia,Santos,Office Manager,shared,IT,Via Monte Napoleone 2,Lombardia,Italia,20121,Milan
+Ruben Ramos,ruben.ramos@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Ruben,Ramos,Network Engineer,it-sistemas,IT,Via Monte Napoleone 3,Lombardia,Italia,20121,Milan
+Patricia Gil,patricia.gil@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Patricia,Gil,Accountant,finanzas,IT,Via Monte Napoleone 4,Lombardia,Italia,20121,Milan
+Fernando Leon,fernando.leon@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Fernando,Leon,SEO Manager,marketing,IT,Via Monte Napoleone 5,Lombardia,Italia,20121,Milan
+Irene Ortega,irene.ortega@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Irene,Ortega,Payroll Specialist,recursos-humanos,PL,ul. Nowy Swiat 6,Mazovia,Polonia,00-001,Warsaw
+Oscar Reyes,oscar.reyes@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Oscar,Reyes,Chief of Staff,directivos,PL,ul. Nowy Swiat 7,Mazovia,Polonia,00-001,Warsaw
+Claudia Prieto,claudia.prieto@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Claudia,Prieto,Executive Assistant,shared,PL,ul. Nowy Swiat 8,Mazovia,Polonia,00-001,Warsaw
+Daniel Flores,daniel.flores@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Daniel,Flores,Systems Architect,it-sistemas,PL,ul. Nowy Swiat 9,Mazovia,Polonia,00-001,Warsaw
+Andrea Cruz,andrea.cruz@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Andrea,Cruz,Compliance Officer,finanzas,PL,ul. Nowy Swiat 10,Mazovia,Polonia,00-001,Warsaw
+Victor Dominguez,victor.dominguez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Victor,Dominguez,Content Manager,marketing,PL,ul. Nowy Swiat 11,Mazovia,Polonia,00-001,Warsaw
+Cristina Marquez,cristina.marquez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Cristina,Marquez,Recruiter,recursos-humanos,PL,ul. Nowy Swiat 12,Mazovia,Polonia,00-001,Warsaw
+Alvaro Cabrera,alvaro.cabrera@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Alvaro,Cabrera,COO,directivos,PL,ul. Nowy Swiat 13,Mazovia,Polonia,00-001,Warsaw
+Silvia Vega,silvia.vega@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Silvia,Vega,Receptionist,shared,PL,ul. Nowy Swiat 14,Mazovia,Polonia,00-001,Warsaw
+Guillermo Garcia,guillermo.garcia@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Guillermo,Garcia,SysAdmin,it-sistemas,PL,ul. Nowy Swiat 15,Mazovia,Polonia,00-001,Warsaw
+Monica Fernandez,monica.fernandez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Monica,Fernandez,Tax Specialist,finanzas,PL,ul. Nowy Swiat 16,Mazovia,Polonia,00-001,Warsaw
+Ivan Rodriguez,ivan.rodriguez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Ivan,Rodriguez,Campaign Manager,marketing,PL,ul. Nowy Swiat 17,Mazovia,Polonia,00-001,Warsaw
+Noelia Martinez,noelia.martinez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Noelia,Martinez,Compensation Analyst,recursos-humanos,PL,ul. Nowy Swiat 18,Mazovia,Polonia,00-001,Warsaw
+Samuel Lopez,samuel.lopez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Samuel,Lopez,VP Finance,directivos,PL,ul. Nowy Swiat 19,Mazovia,Polonia,00-001,Warsaw
+Luciana Sanchez,luciana.sanchez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Luciana,Sanchez,Business Analyst,shared,PL,ul. Nowy Swiat 20,Mazovia,Polonia,00-001,Warsaw
+Alejandro Perez,alejandro.perez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Alejandro,Perez,IT Specialist,it-sistemas,US,5th Avenue 21,New York,EEUU-Este,10001,New York
+Lucia Gomez,lucia.gomez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Lucia,Gomez,Controller,finanzas,US,5th Avenue 22,New York,EEUU-Este,10001,New York
+Carlos Ruiz,carlos.ruiz@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Carlos,Ruiz,Creative Designer,marketing,US,5th Avenue 23,New York,EEUU-Este,10001,New York
+Elena Diaz,elena.diaz@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Elena,Diaz,Talent Acquisition Specialist,recursos-humanos,US,5th Avenue 24,New York,EEUU-Este,10001,New York
+David Torres,david.torres@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,David,Torres,Board Member,directivos,US,5th Avenue 25,New York,EEUU-Este,10001,New York
+Sofia Morales,sofia.morales@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Sofia,Morales,Document Specialist,shared,US,5th Avenue 1,New York,EEUU-Este,10001,New York
+Javier Vazquez,javier.vazquez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Javier,Vazquez,Developer,it-sistemas,US,5th Avenue 2,New York,EEUU-Este,10001,New York
+Marta Castro,marta.castro@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Marta,Castro,Finance Manager,finanzas,US,5th Avenue 3,New York,EEUU-Este,10001,New York
+Pablo Romero,pablo.romero@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Pablo,Romero,Growth Analyst,marketing,US,5th Avenue 4,New York,EEUU-Este,10001,New York
+Laura Navarro,laura.navarro@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Laura,Navarro,HR Director,recursos-humanos,US,5th Avenue 5,New York,EEUU-Este,10001,New York
+Diego Murillo,diego.murillo@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Diego,Murillo,CEO,directivos,US,5th Avenue 6,New York,EEUU-Este,10001,New York
+Carmen Mendez,carmen.mendez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Carmen,Mendez,Office Manager,shared,US,5th Avenue 7,New York,EEUU-Este,10001,New York
+Sergio Blanco,sergio.blanco@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Sergio,Blanco,Network Engineer,it-sistemas,US,5th Avenue 8,New York,EEUU-Este,10001,New York
+Paula Delgado,paula.delgado@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Paula,Delgado,Accountant,finanzas,US,5th Avenue 9,New York,EEUU-Este,10001,New York
+Marcos Jimenez,marcos.jimenez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Marcos,Jimenez,SEO Manager,marketing,US,5th Avenue 10,New York,EEUU-Este,10001,New York
+Raquel Herrera,raquel.herrera@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Raquel,Herrera,Payroll Specialist,recursos-humanos,US,Wilshire Blvd 11,California,EEUU-Oeste,90010,Los Angeles
+Adrian Ortiz,adrian.ortiz@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Adrian,Ortiz,Chief of Staff,directivos,US,Wilshire Blvd 12,California,EEUU-Oeste,90010,Los Angeles
+Beatriz Molina,beatriz.molina@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Beatriz,Molina,Executive Assistant,shared,US,Wilshire Blvd 13,California,EEUU-Oeste,90010,Los Angeles
+Hugo Vidal,hugo.vidal@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Hugo,Vidal,Systems Architect,it-sistemas,US,Wilshire Blvd 14,California,EEUU-Oeste,90010,Los Angeles
+Sara Santos,sara.santos@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Sara,Santos,Compliance Officer,finanzas,US,Wilshire Blvd 15,California,EEUU-Oeste,90010,Los Angeles
+Alberto Ramos,alberto.ramos@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Alberto,Ramos,Content Manager,marketing,US,Wilshire Blvd 16,California,EEUU-Oeste,90010,Los Angeles
+Natalia Gil,natalia.gil@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Natalia,Gil,Recruiter,recursos-humanos,US,Wilshire Blvd 17,California,EEUU-Oeste,90010,Los Angeles
+Ruben Leon,ruben.leon@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Ruben,Leon,COO,directivos,US,Wilshire Blvd 18,California,EEUU-Oeste,90010,Los Angeles
+Patricia Ortega,patricia.ortega@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Patricia,Ortega,Receptionist,shared,US,Wilshire Blvd 19,California,EEUU-Oeste,90010,Los Angeles
+Fernando Reyes,fernando.reyes@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Fernando,Reyes,SysAdmin,it-sistemas,US,Wilshire Blvd 20,California,EEUU-Oeste,90010,Los Angeles
+Irene Prieto,irene.prieto@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Irene,Prieto,Tax Specialist,finanzas,US,Wilshire Blvd 21,California,EEUU-Oeste,90010,Los Angeles
+Oscar Flores,oscar.flores@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Oscar,Flores,Campaign Manager,marketing,US,Wilshire Blvd 22,California,EEUU-Oeste,90010,Los Angeles
+Claudia Cruz,claudia.cruz@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Claudia,Cruz,Compensation Analyst,recursos-humanos,US,Wilshire Blvd 23,California,EEUU-Oeste,90010,Los Angeles
+Daniel Dominguez,daniel.dominguez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Daniel,Dominguez,VP Finance,directivos,US,Wilshire Blvd 24,California,EEUU-Oeste,90010,Los Angeles
+Andrea Marquez,andrea.marquez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Andrea,Marquez,Business Analyst,shared,US,Wilshire Blvd 25,California,EEUU-Oeste,90010,Los Angeles
+Michael Wagner,michael.wagner@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Michael,Wagner,IT Specialist,it-sistemas,DE,Unter den Linden 1,Berlin,Alemania,10117,Berlin
+Susanne Becker,susanne.becker@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Susanne,Becker,Controller,finanzas,DE,Unter den Linden 2,Berlin,Alemania,10117,Berlin
+Sabine Schmidt,sabine.schmidt@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Sabine,Schmidt,Creative Designer,marketing,DE,Unter den Linden 3,Berlin,Alemania,10117,Berlin
+Karin Fischer,karin.fischer@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Karin,Fischer,Talent Acquisition Specialist,recursos-humanos,DE,Unter den Linden 4,Berlin,Alemania,10117,Berlin
+Ursula Schmidt,ursula.schmidt@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Ursula,Schmidt,Board Member,directivos,DE,Unter den Linden 5,Berlin,Alemania,10117,Berlin
+Ingrid Schmidt,ingrid.schmidt@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Ingrid,Schmidt,Document Specialist,shared,DE,Unter den Linden 6,Berlin,Alemania,10117,Berlin
+Hans Fischer,hans.fischer@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Hans,Fischer,Developer,it-sistemas,DE,Unter den Linden 7,Berlin,Alemania,10117,Berlin
+Klaus Schneider,klaus.schneider@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Klaus,Schneider,Finance Manager,finanzas,DE,Unter den Linden 8,Berlin,Alemania,10117,Berlin
+Michael Weber,michael.weber@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Michael,Weber,Growth Analyst,marketing,DE,Unter den Linden 9,Berlin,Alemania,10117,Berlin
+Dieter Weber,dieter.weber@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Dieter,Weber,HR Director,recursos-humanos,DE,Unter den Linden 10,Berlin,Alemania,10117,Berlin
+Helga Wagner,helga.wagner@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Helga,Wagner,CEO,directivos,DE,Unter den Linden 11,Berlin,Alemania,10117,Berlin
+Claudia Muller,claudia.muller@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Claudia,Muller,Office Manager,shared,DE,Unter den Linden 12,Berlin,Alemania,10117,Berlin
+Ingrid Hoffmann,ingrid.hoffmann@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Ingrid,Hoffmann,Network Engineer,it-sistemas,DE,Unter den Linden 13,Berlin,Alemania,10117,Berlin
+Thomas Wagner,thomas.wagner@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Thomas,Wagner,Accountant,finanzas,DE,Unter den Linden 14,Berlin,Alemania,10117,Berlin
+Petra Hoffmann,petra.hoffmann@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Petra,Hoffmann,SEO Manager,marketing,DE,Unter den Linden 15,Berlin,Alemania,10117,Berlin
+Birgit Becker,birgit.becker@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Birgit,Becker,Payroll Specialist,recursos-humanos,DE,Unter den Linden 16,Berlin,Alemania,10117,Berlin
+Dieter Meyer,dieter.meyer@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Dieter,Meyer,Chief of Staff,directivos,DE,Unter den Linden 17,Berlin,Alemania,10117,Berlin
+Helga Muller,helga.muller@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Helga,Muller,Executive Assistant,shared,DE,Unter den Linden 18,Berlin,Alemania,10117,Berlin
+Werner Muller,werner.muller@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Werner,Muller,Systems Architect,it-sistemas,DE,Unter den Linden 19,Berlin,Alemania,10117,Berlin
+Klaus Fischer,klaus.fischer@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Klaus,Fischer,Compliance Officer,finanzas,DE,Unter den Linden 20,Berlin,Alemania,10117,Berlin
+Petra Schäfer,petra.schafer@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Petra,Schäfer,Content Manager,marketing,DE,Unter den Linden 21,Berlin,Alemania,10117,Berlin
+Hans Meyer,hans.meyer@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Hans,Meyer,Recruiter,recursos-humanos,DE,Unter den Linden 22,Berlin,Alemania,10117,Berlin
+Dieter Schneider,dieter.schneider@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Dieter,Schneider,COO,directivos,DE,Unter den Linden 23,Berlin,Alemania,10117,Berlin
+Ingrid Wagner,ingrid.wagner@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Ingrid,Wagner,Receptionist,shared,DE,Unter den Linden 24,Berlin,Alemania,10117,Berlin
+Susanne Wagner,susanne.wagner@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Susanne,Wagner,SysAdmin,it-sistemas,DE,Unter den Linden 25,Berlin,Alemania,10117,Berlin
+Thomas Evans,thomas.evans@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Thomas,Evans,IT Specialist,it-sistemas,GB,Oxford Street 1,London,Reino Unido,W1D 1BS,London
+Edward Brown,edward.brown@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Edward,Brown,Controller,finanzas,GB,Oxford Street 2,London,Reino Unido,W1D 1BS,London
+Amelia Williams,amelia.williams@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Amelia,Williams,Creative Designer,marketing,GB,Oxford Street 3,London,Reino Unido,W1D 1BS,London
+Isabella Taylor,isabella.taylor@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Isabella,Taylor,Talent Acquisition Specialist,recursos-humanos,GB,Oxford Street 4,London,Reino Unido,W1D 1BS,London
+Sophie Thomas,sophie.thomas@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Sophie,Thomas,Board Member,directivos,GB,Oxford Street 5,London,Reino Unido,W1D 1BS,London
+Edward Williams,edward.williams@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Edward,Williams,Document Specialist,shared,GB,Oxford Street 6,London,Reino Unido,W1D 1BS,London
+Isabella Davies,isabella.davies@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Isabella,Davies,Developer,it-sistemas,GB,Oxford Street 7,London,Reino Unido,W1D 1BS,London
+Amelia Taylor,amelia.taylor@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Amelia,Taylor,Finance Manager,finanzas,GB,Oxford Street 8,London,Reino Unido,W1D 1BS,London
+Charlotte Taylor,charlotte.taylor@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Charlotte,Taylor,Growth Analyst,marketing,GB,Oxford Street 9,London,Reino Unido,W1D 1BS,London
+Thomas Taylor,thomas.taylor@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Thomas,Taylor,HR Director,recursos-humanos,GB,Oxford Street 10,London,Reino Unido,W1D 1BS,London
+Emma Jones,emma.jones@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Emma,Jones,CEO,directivos,GB,Oxford Street 11,London,Reino Unido,W1D 1BS,London
+Olivia Evans,olivia.evans@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Olivia,Evans,Office Manager,shared,GB,Oxford Street 12,London,Reino Unido,W1D 1BS,London
+Harry Thomas,harry.thomas@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Harry,Thomas,Network Engineer,it-sistemas,GB,Oxford Street 13,London,Reino Unido,W1D 1BS,London
+Noah Wilson,noah.wilson@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Noah,Wilson,Accountant,finanzas,GB,Oxford Street 14,London,Reino Unido,W1D 1BS,London
+Oliver Williams,oliver.williams@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Oliver,Williams,SEO Manager,marketing,GB,Oxford Street 15,London,Reino Unido,W1D 1BS,London
+James Taylor,james.taylor@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,James,Taylor,Payroll Specialist,recursos-humanos,GB,Oxford Street 16,London,Reino Unido,W1D 1BS,London
+George Taylor,george.taylor@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,George,Taylor,Chief of Staff,directivos,GB,Oxford Street 17,London,Reino Unido,W1D 1BS,London
+Isabella Brown,isabella.brown@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Isabella,Brown,Executive Assistant,shared,GB,Oxford Street 18,London,Reino Unido,W1D 1BS,London
+Edward Roberts,edward.roberts@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Edward,Roberts,Systems Architect,it-sistemas,GB,Oxford Street 19,London,Reino Unido,W1D 1BS,London
+Charlie Taylor,charlie.taylor@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Charlie,Taylor,Compliance Officer,finanzas,GB,Oxford Street 20,London,Reino Unido,W1D 1BS,London
+Charlotte Brown,charlotte.brown@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Charlotte,Brown,Content Manager,marketing,GB,Oxford Street 21,London,Reino Unido,W1D 1BS,London
+Isabella Thomas,isabella.thomas@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Isabella,Thomas,Recruiter,recursos-humanos,GB,Oxford Street 22,London,Reino Unido,W1D 1BS,London
+William Brown,william.brown@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,William,Brown,COO,directivos,GB,Oxford Street 23,London,Reino Unido,W1D 1BS,London
+Thomas Wilson,thomas.wilson@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Thomas,Wilson,Receptionist,shared,GB,Oxford Street 24,London,Reino Unido,W1D 1BS,London
+James Roberts,james.roberts@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,James,Roberts,SysAdmin,it-sistemas,GB,Oxford Street 25,London,Reino Unido,W1D 1BS,London
+Martina Esposito,martina.esposito@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Martina,Esposito,IT Specialist,it-sistemas,IT,Via Monte Napoleone 1,Lombardia,Italia,20121,Milan
+Riccardo Colombo,riccardo.colombo@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Riccardo,Colombo,Controller,finanzas,IT,Via Monte Napoleone 2,Lombardia,Italia,20121,Milan
+Francesco Romano,francesco.romano@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Francesco,Romano,Creative Designer,marketing,IT,Via Monte Napoleone 3,Lombardia,Italia,20121,Milan
+Valentina Bruno,valentina.bruno@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Valentina,Bruno,Talent Acquisition Specialist,recursos-humanos,IT,Via Monte Napoleone 4,Lombardia,Italia,20121,Milan
+Francesca Colombo,francesca.colombo@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Francesca,Colombo,Board Member,directivos,IT,Via Monte Napoleone 5,Lombardia,Italia,20121,Milan
+Alessandro Ferrari,alessandro.ferrari@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Alessandro,Ferrari,Document Specialist,shared,IT,Via Monte Napoleone 6,Lombardia,Italia,20121,Milan
+Martina Marino,martina.marino@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Martina,Marino,Developer,it-sistemas,IT,Via Monte Napoleone 7,Lombardia,Italia,20121,Milan
+Alessandro Bruno,alessandro.bruno@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Alessandro,Bruno,Finance Manager,finanzas,IT,Via Monte Napoleone 8,Lombardia,Italia,20121,Milan
+Giulia Bruno,giulia.bruno@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Giulia,Bruno,Growth Analyst,marketing,IT,Via Monte Napoleone 9,Lombardia,Italia,20121,Milan
+Giulia Colombo,giulia.colombo@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Giulia,Colombo,HR Director,recursos-humanos,IT,Via Monte Napoleone 10,Lombardia,Italia,20121,Milan
+Francesca Greco,francesca.greco@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Francesca,Greco,CEO,directivos,IT,Via Monte Napoleone 11,Lombardia,Italia,20121,Milan
+Valentina Ricci,valentina.ricci@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Valentina,Ricci,Office Manager,shared,IT,Via Monte Napoleone 12,Lombardia,Italia,20121,Milan
+Valentina Romano,valentina.romano@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Valentina,Romano,Network Engineer,it-sistemas,IT,Via Monte Napoleone 13,Lombardia,Italia,20121,Milan
+Francesca Ferrari,francesca.ferrari@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Francesca,Ferrari,Accountant,finanzas,IT,Via Monte Napoleone 14,Lombardia,Italia,20121,Milan
+Andrea Marino,andrea.marino@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Andrea,Marino,SEO Manager,marketing,IT,Via Monte Napoleone 15,Lombardia,Italia,20121,Milan
+Francesca Bianchi,francesca.bianchi@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Francesca,Bianchi,Payroll Specialist,recursos-humanos,IT,Via Monte Napoleone 16,Lombardia,Italia,20121,Milan
+Filippo Bianchi,filippo.bianchi@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Filippo,Bianchi,Chief of Staff,directivos,IT,Via Monte Napoleone 17,Lombardia,Italia,20121,Milan
+Giorgia Romano,giorgia.romano@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Giorgia,Romano,Executive Assistant,shared,IT,Via Monte Napoleone 18,Lombardia,Italia,20121,Milan
+Filippo Greco,filippo.greco@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Filippo,Greco,Systems Architect,it-sistemas,IT,Via Monte Napoleone 19,Lombardia,Italia,20121,Milan
+Elisa Ferrari,elisa.ferrari@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Elisa,Ferrari,Compliance Officer,finanzas,IT,Via Monte Napoleone 20,Lombardia,Italia,20121,Milan
+Sara Esposito,sara.esposito@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Sara,Esposito,Content Manager,marketing,IT,Via Monte Napoleone 21,Lombardia,Italia,20121,Milan
+Filippo Rossi,filippo.rossi@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Filippo,Rossi,Recruiter,recursos-humanos,IT,Via Monte Napoleone 22,Lombardia,Italia,20121,Milan
+Federica Ricci,federica.ricci@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Federica,Ricci,COO,directivos,IT,Via Monte Napoleone 23,Lombardia,Italia,20121,Milan
+Francesca Bruno,francesca.bruno@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Francesca,Bruno,Receptionist,shared,IT,Via Monte Napoleone 24,Lombardia,Italia,20121,Milan
+Lorenzo Romano,lorenzo.romano@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Lorenzo,Romano,SysAdmin,it-sistemas,IT,Via Monte Napoleone 25,Lombardia,Italia,20121,Milan
+Anna Wisniewski,anna.wisniewski@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Anna,Wisniewski,IT Specialist,it-sistemas,PL,ul. Nowy Swiat 1,Mazovia,Polonia,00-001,Warsaw
+Monika Zielinski,monika.zielinski@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Monika,Zielinski,Controller,finanzas,PL,ul. Nowy Swiat 2,Mazovia,Polonia,00-001,Warsaw
+Jakub Kowalczyk,jakub.kowalczyk@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Jakub,Kowalczyk,Creative Designer,marketing,PL,ul. Nowy Swiat 3,Mazovia,Polonia,00-001,Warsaw
+Lukasz Kaminski,lukasz.kaminski@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Lukasz,Kaminski,Talent Acquisition Specialist,recursos-humanos,PL,ul. Nowy Swiat 4,Mazovia,Polonia,00-001,Warsaw
+Malgorzata Kowalski,malgorzata.kowalski@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Malgorzata,Kowalski,Board Member,directivos,PL,ul. Nowy Swiat 5,Mazovia,Polonia,00-001,Warsaw
+Marcin Lewandowski,marcin.lewandowski@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Marcin,Lewandowski,Document Specialist,shared,PL,ul. Nowy Swiat 6,Mazovia,Polonia,00-001,Warsaw
+Karolina Wisniewski,karolina.wisniewski@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Karolina,Wisniewski,Developer,it-sistemas,PL,ul. Nowy Swiat 7,Mazovia,Polonia,00-001,Warsaw
+Jakub Kowalski,jakub.kowalski@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Jakub,Kowalski,Finance Manager,finanzas,PL,ul. Nowy Swiat 8,Mazovia,Polonia,00-001,Warsaw
+Agnieszka Kowalczyk,agnieszka.kowalczyk@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Agnieszka,Kowalczyk,Growth Analyst,marketing,PL,ul. Nowy Swiat 9,Mazovia,Polonia,00-001,Warsaw
+Pawel Zielinski,pawel.zielinski@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Pawel,Zielinski,HR Director,recursos-humanos,PL,ul. Nowy Swiat 10,Mazovia,Polonia,00-001,Warsaw
+Michal Kaminski,michal.kaminski@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Michal,Kaminski,CEO,directivos,PL,ul. Nowy Swiat 11,Mazovia,Polonia,00-001,Warsaw
+Joanna Nowak,joanna.nowak@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Joanna,Nowak,Office Manager,shared,PL,ul. Nowy Swiat 12,Mazovia,Polonia,00-001,Warsaw
+Piotr Wozniak,piotr.wozniak@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Piotr,Wozniak,Network Engineer,it-sistemas,PL,ul. Nowy Swiat 13,Mazovia,Polonia,00-001,Warsaw
+Marek Szymanski,marek.szymanski@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Marek,Szymanski,Accountant,finanzas,PL,ul. Nowy Swiat 14,Mazovia,Polonia,00-001,Warsaw
+Krzysztof Szymanski,krzysztof.szymanski@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Krzysztof,Szymanski,SEO Manager,marketing,PL,ul. Nowy Swiat 15,Mazovia,Polonia,00-001,Warsaw
+Lukasz Zielinski,lukasz.zielinski@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Lukasz,Zielinski,Payroll Specialist,recursos-humanos,PL,ul. Nowy Swiat 16,Mazovia,Polonia,00-001,Warsaw
+Malgorzata Lewandowski,malgorzata.lewandowski@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Malgorzata,Lewandowski,Chief of Staff,directivos,PL,ul. Nowy Swiat 17,Mazovia,Polonia,00-001,Warsaw
+Marcin Wozniak,marcin.wozniak@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Marcin,Wozniak,Executive Assistant,shared,PL,ul. Nowy Swiat 18,Mazovia,Polonia,00-001,Warsaw
+Ewa Wojciechowski,ewa.wojciechowski@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Ewa,Wojciechowski,Systems Architect,it-sistemas,PL,ul. Nowy Swiat 19,Mazovia,Polonia,00-001,Warsaw
+Malgorzata Nowak,malgorzata.nowak@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Malgorzata,Nowak,Compliance Officer,finanzas,PL,ul. Nowy Swiat 20,Mazovia,Polonia,00-001,Warsaw
+Agnieszka Wisniewski,agnieszka.wisniewski@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Agnieszka,Wisniewski,Content Manager,marketing,PL,ul. Nowy Swiat 21,Mazovia,Polonia,00-001,Warsaw
+Katarzyna Lewandowski,katarzyna.lewandowski@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Katarzyna,Lewandowski,Recruiter,recursos-humanos,PL,ul. Nowy Swiat 22,Mazovia,Polonia,00-001,Warsaw
+Andrzej Wozniak,andrzej.wozniak@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Andrzej,Wozniak,COO,directivos,PL,ul. Nowy Swiat 23,Mazovia,Polonia,00-001,Warsaw
+Katarzyna Szymanski,katarzyna.szymanski@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Katarzyna,Szymanski,Receptionist,shared,PL,ul. Nowy Swiat 24,Mazovia,Polonia,00-001,Warsaw
+Katarzyna Nowak,katarzyna.nowak@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Katarzyna,Nowak,SysAdmin,it-sistemas,PL,ul. Nowy Swiat 25,Mazovia,Polonia,00-001,Warsaw
+Joseph Miller,joseph.miller@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Joseph,Miller,IT Specialist,it-sistemas,US,5th Avenue 1,New York,EEUU-Este,10001,New York
+Sarah Davis,sarah.davis@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Sarah,Davis,Controller,finanzas,US,5th Avenue 2,New York,EEUU-Este,10001,New York
+Melissa Jones,melissa.jones@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Melissa,Jones,Creative Designer,marketing,US,5th Avenue 3,New York,EEUU-Este,10001,New York
+Jennifer Martinez,jennifer.martinez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Jennifer,Martinez,Talent Acquisition Specialist,recursos-humanos,US,5th Avenue 4,New York,EEUU-Este,10001,New York
+Tyler Martinez,tyler.martinez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Tyler,Martinez,Board Member,directivos,US,5th Avenue 5,New York,EEUU-Este,10001,New York
+Matthew Miller,matthew.miller@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Matthew,Miller,Document Specialist,shared,US,5th Avenue 6,New York,EEUU-Este,10001,New York
+Brandon Davis,brandon.davis@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Brandon,Davis,Developer,it-sistemas,US,5th Avenue 7,New York,EEUU-Este,10001,New York
+Ashley Brown,ashley.brown@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Ashley,Brown,Finance Manager,finanzas,US,5th Avenue 8,New York,EEUU-Este,10001,New York
+Sarah Garcia,sarah.garcia@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Sarah,Garcia,Growth Analyst,marketing,US,5th Avenue 9,New York,EEUU-Este,10001,New York
+Ashley Rodriguez,ashley.rodriguez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Ashley,Rodriguez,HR Director,recursos-humanos,US,5th Avenue 10,New York,EEUU-Este,10001,New York
+Michael Miller,michael.miller@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Michael,Miller,CEO,directivos,US,5th Avenue 11,New York,EEUU-Este,10001,New York
+Ashley Hernandez,ashley.hernandez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Ashley,Hernandez,Office Manager,shared,US,5th Avenue 12,New York,EEUU-Este,10001,New York
+Jessica Williams,jessica.williams@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Jessica,Williams,Network Engineer,it-sistemas,US,5th Avenue 13,New York,EEUU-Este,10001,New York
+Joseph Jones,joseph.jones@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Joseph,Jones,Accountant,finanzas,US,5th Avenue 14,New York,EEUU-Este,10001,New York
+Ashley Miller,ashley.miller@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Ashley,Miller,SEO Manager,marketing,US,5th Avenue 15,New York,EEUU-Este,10001,New York
+Elizabeth Jones,elizabeth.jones@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Elizabeth,Jones,Payroll Specialist,recursos-humanos,US,5th Avenue 16,New York,EEUU-Este,10001,New York
+Megan Davis,megan.davis@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Megan,Davis,Chief of Staff,directivos,US,5th Avenue 17,New York,EEUU-Este,10001,New York
+Daniel Brown,daniel.brown@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Daniel,Brown,Executive Assistant,shared,US,5th Avenue 18,New York,EEUU-Este,10001,New York
+Brittany Martinez,brittany.martinez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Brittany,Martinez,Systems Architect,it-sistemas,US,5th Avenue 19,New York,EEUU-Este,10001,New York
+Andrew Williams,andrew.williams@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Andrew,Williams,Compliance Officer,finanzas,US,5th Avenue 20,New York,EEUU-Este,10001,New York
+Joshua Garcia,joshua.garcia@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Joshua,Garcia,Content Manager,marketing,US,5th Avenue 21,New York,EEUU-Este,10001,New York
+Daniel Johnson,daniel.johnson@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Daniel,Johnson,Recruiter,recursos-humanos,US,5th Avenue 22,New York,EEUU-Este,10001,New York
+Jessica Davis,jessica.davis@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Jessica,Davis,COO,directivos,US,5th Avenue 23,New York,EEUU-Este,10001,New York
+Melissa Miller,melissa.miller@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Melissa,Miller,Receptionist,shared,US,5th Avenue 24,New York,EEUU-Este,10001,New York
+Melissa Davis,melissa.davis@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Melissa,Davis,SysAdmin,it-sistemas,US,5th Avenue 25,New York,EEUU-Este,10001,New York
+Kylie Anderson,kylie.anderson@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Kylie,Anderson,IT Specialist,it-sistemas,US,Wilshire Blvd 1,California,EEUU-Oeste,90010,Los Angeles
+Dylan Lewis,dylan.lewis@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Dylan,Lewis,Controller,finanzas,US,Wilshire Blvd 2,California,EEUU-Oeste,90010,Los Angeles
+Shelby Harris,shelby.harris@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Shelby,Harris,Creative Designer,marketing,US,Wilshire Blvd 3,California,EEUU-Oeste,90010,Los Angeles
+Austin Clark,austin.clark@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Austin,Clark,Talent Acquisition Specialist,recursos-humanos,US,Wilshire Blvd 4,California,EEUU-Oeste,90010,Los Angeles
+Madison Lewis,madison.lewis@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Madison,Lewis,Board Member,directivos,US,Wilshire Blvd 5,California,EEUU-Oeste,90010,Los Angeles
+Dylan Clark,dylan.clark@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Dylan,Clark,Document Specialist,shared,US,Wilshire Blvd 6,California,EEUU-Oeste,90010,Los Angeles
+Taylor Anderson,taylor.anderson@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Taylor,Anderson,Developer,it-sistemas,US,Wilshire Blvd 7,California,EEUU-Oeste,90010,Los Angeles
+Brittney White,brittney.white@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Brittney,White,Finance Manager,finanzas,US,Wilshire Blvd 8,California,EEUU-Oeste,90010,Los Angeles
+Zachary Harris,zachary.harris@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Zachary,Harris,Growth Analyst,marketing,US,Wilshire Blvd 9,California,EEUU-Oeste,90010,Los Angeles
+Justin Thompson,justin.thompson@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Justin,Thompson,HR Director,recursos-humanos,US,Wilshire Blvd 10,California,EEUU-Oeste,90010,Los Angeles
+Madison Robinson,madison.robinson@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Madison,Robinson,CEO,directivos,US,Wilshire Blvd 11,California,EEUU-Oeste,90010,Los Angeles
+Logan Gonzalez,logan.gonzalez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Logan,Gonzalez,Office Manager,shared,US,Wilshire Blvd 12,California,EEUU-Oeste,90010,Los Angeles
+Travis Robinson,travis.robinson@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Travis,Robinson,Network Engineer,it-sistemas,US,Wilshire Blvd 13,California,EEUU-Oeste,90010,Los Angeles
+Travis Lopez,travis.lopez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Travis,Lopez,Accountant,finanzas,US,Wilshire Blvd 14,California,EEUU-Oeste,90010,Los Angeles
+Alyssa Lee,alyssa.lee@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Alyssa,Lee,SEO Manager,marketing,US,Wilshire Blvd 15,California,EEUU-Oeste,90010,Los Angeles
+Nathan Thompson,nathan.thompson@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Nathan,Thompson,Payroll Specialist,recursos-humanos,US,Wilshire Blvd 16,California,EEUU-Oeste,90010,Los Angeles
+Shelby Lopez,shelby.lopez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Shelby,Lopez,Chief of Staff,directivos,US,Wilshire Blvd 17,California,EEUU-Oeste,90010,Los Angeles
+Hunter Harris,hunter.harris@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Hunter,Harris,Executive Assistant,shared,US,Wilshire Blvd 18,California,EEUU-Oeste,90010,Los Angeles
+Kylie Lewis,kylie.lewis@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Kylie,Lewis,Systems Architect,it-sistemas,US,Wilshire Blvd 19,California,EEUU-Oeste,90010,Los Angeles
+Ethan Thompson,ethan.thompson@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Ethan,Thompson,Compliance Officer,finanzas,US,Wilshire Blvd 20,California,EEUU-Oeste,90010,Los Angeles
+Alyssa Clark,alyssa.clark@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Alyssa,Clark,Content Manager,marketing,US,Wilshire Blvd 21,California,EEUU-Oeste,90010,Los Angeles
+Cassandra Harris,cassandra.harris@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Cassandra,Harris,Recruiter,recursos-humanos,US,Wilshire Blvd 22,California,EEUU-Oeste,90010,Los Angeles
+Justin Gonzalez,justin.gonzalez@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Justin,Gonzalez,COO,directivos,US,Wilshire Blvd 23,California,EEUU-Oeste,90010,Los Angeles
+Travis Clark,travis.clark@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Travis,Clark,Receptionist,shared,US,Wilshire Blvd 24,California,EEUU-Oeste,90010,Los Angeles
+Austin White,austin.white@garciapablo933gmail.onmicrosoft.com,TFG_Seguro_2026!,No,Austin,White,SysAdmin,it-sistemas,US,Wilshire Blvd 25,California,EEUU-Oeste,90010,Los Angeles

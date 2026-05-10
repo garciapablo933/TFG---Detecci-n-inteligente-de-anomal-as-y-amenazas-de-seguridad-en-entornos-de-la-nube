@@ -1,0 +1,194 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 720" width="1100" height="720" font-family="'Segoe UI', Arial, sans-serif">
+  <!-- Background -->
+  <rect width="1100" height="720" fill="#0f1624"/>
+
+  <!-- Title -->
+  <text x="550" y="38" text-anchor="middle" fill="#ffffff" font-size="20" font-weight="700" letter-spacing="1">Arquitectura Cloud — Detección de Anomalías</text>
+  <text x="550" y="58" text-anchor="middle" fill="#5b8dee" font-size="12">Proyecto de Ciberseguridad · Azure Tenant</text>
+
+  <!-- AZURE TENANT BOX -->
+  <rect x="30" y="70" width="1040" height="630" rx="16" fill="none" stroke="#1e5fe0" stroke-width="2" stroke-dasharray="8,4"/>
+  <rect x="30" y="70" width="200" height="28" rx="8" fill="#1e5fe0"/>
+  <text x="130" y="89" text-anchor="middle" fill="#fff" font-size="12" font-weight="600">☁ Azure Tenant</text>
+
+  <!-- ══════════════════════════════════════════════ -->
+  <!-- SEDES (left column) -->
+  <!-- ══════════════════════════════════════════════ -->
+  <rect x="50" y="105" width="210" height="570" rx="12" fill="#131e35" stroke="#2a3f6f" stroke-width="1.5"/>
+  <text x="155" y="128" text-anchor="middle" fill="#7eb3ff" font-size="12" font-weight="700">🌍 Sedes Internacionales</text>
+
+  <!-- Madrid -->
+  <rect x="65" y="138" width="180" height="56" rx="8" fill="#1a2a4a" stroke="#2e4a80" stroke-width="1"/>
+  <circle cx="84" cy="166" r="14" fill="#1e5fe0"/>
+  <text x="84" y="170" text-anchor="middle" fill="#fff" font-size="10">🏢</text>
+  <text x="107" y="160" fill="#e0e8ff" font-size="11" font-weight="600">Madrid</text>
+  <text x="107" y="174" fill="#7eb3ff" font-size="9">10.1.1.Y · HQ</text>
+  <rect x="210" y="153" width="30" height="14" rx="3" fill="#0f4c2a"/>
+  <text x="225" y="164" text-anchor="middle" fill="#4caf82" font-size="8">HQ</text>
+
+  <!-- Berlin -->
+  <rect x="65" y="202" width="180" height="48" rx="8" fill="#1a2a4a" stroke="#2e4a80" stroke-width="1"/>
+  <circle cx="84" cy="226" r="14" fill="#1e5fe0"/>
+  <text x="84" y="230" text-anchor="middle" fill="#fff" font-size="10">🏢</text>
+  <text x="107" y="221" fill="#e0e8ff" font-size="11" font-weight="600">Berlín</text>
+  <text x="107" y="235" fill="#7eb3ff" font-size="9">10.2.1.Y</text>
+
+  <!-- Londres -->
+  <rect x="65" y="258" width="180" height="48" rx="8" fill="#1a2a4a" stroke="#2e4a80" stroke-width="1"/>
+  <circle cx="84" cy="282" r="14" fill="#1e5fe0"/>
+  <text x="84" y="286" text-anchor="middle" fill="#fff" font-size="10">🏢</text>
+  <text x="107" y="277" fill="#e0e8ff" font-size="11" font-weight="600">Londres</text>
+  <text x="107" y="291" fill="#7eb3ff" font-size="9">10.3.1.Y</text>
+
+  <!-- Milán -->
+  <rect x="65" y="314" width="180" height="48" rx="8" fill="#1a2a4a" stroke="#2e4a80" stroke-width="1"/>
+  <circle cx="84" cy="338" r="14" fill="#1e5fe0"/>
+  <text x="84" y="342" text-anchor="middle" fill="#fff" font-size="10">🏢</text>
+  <text x="107" y="333" fill="#e0e8ff" font-size="11" font-weight="600">Milán</text>
+  <text x="107" y="347" fill="#7eb3ff" font-size="9">10.4.1.Y</text>
+
+  <!-- Varsovia -->
+  <rect x="65" y="370" width="180" height="48" rx="8" fill="#1a2a4a" stroke="#2e4a80" stroke-width="1"/>
+  <circle cx="84" cy="394" r="14" fill="#1e5fe0"/>
+  <text x="84" y="398" text-anchor="middle" fill="#fff" font-size="10">🏢</text>
+  <text x="107" y="389" fill="#e0e8ff" font-size="11" font-weight="600">Varsovia</text>
+  <text x="107" y="403" fill="#7eb3ff" font-size="9">10.5.1.Y</text>
+
+  <!-- Nueva York -->
+  <rect x="65" y="426" width="180" height="48" rx="8" fill="#1a2a4a" stroke="#2e4a80" stroke-width="1"/>
+  <circle cx="84" cy="450" r="14" fill="#1e5fe0"/>
+  <text x="84" y="454" text-anchor="middle" fill="#fff" font-size="10">🏢</text>
+  <text x="107" y="445" fill="#e0e8ff" font-size="11" font-weight="600">Nueva York</text>
+  <text x="107" y="459" fill="#7eb3ff" font-size="9">10.6.1.Y</text>
+
+  <!-- Los Angeles -->
+  <rect x="65" y="482" width="180" height="48" rx="8" fill="#1a2a4a" stroke="#2e4a80" stroke-width="1"/>
+  <circle cx="84" cy="506" r="14" fill="#1e5fe0"/>
+  <text x="84" y="510" text-anchor="middle" fill="#fff" font-size="10">🏢</text>
+  <text x="107" y="501" fill="#e0e8ff" font-size="11" font-weight="600">Los Ángeles</text>
+  <text x="107" y="515" fill="#7eb3ff" font-size="9">10.7.1.Y</text>
+
+  <!-- User counts -->
+  <rect x="65" y="543" width="180" height="120" rx="8" fill="#0e1e3a" stroke="#1e3f70" stroke-width="1"/>
+  <text x="155" y="562" text-anchor="middle" fill="#7eb3ff" font-size="10" font-weight="700">👥 300 Usuarios</text>
+  <rect x="75" y="569" width="50" height="18" rx="4" fill="#1a3a6a"/>
+  <text x="100" y="581" text-anchor="middle" fill="#5b8dee" font-size="8" font-weight="600">Power</text>
+  <rect x="133" y="569" width="50" height="18" rx="4" fill="#1a3a6a"/>
+  <text x="158" y="581" text-anchor="middle" fill="#5b8dee" font-size="8" font-weight="600">Normal</text>
+  <rect x="75" y="593" width="50" height="18" rx="4" fill="#1a3a6a"/>
+  <text x="100" y="605" text-anchor="middle" fill="#5b8dee" font-size="8" font-weight="600">Pasivo</text>
+  <text x="155" y="607" fill="#4caf82" font-size="8">RBAC Roles ↑</text>
+
+  <!-- ══════════════════════════════════════════════ -->
+  <!-- Arrows sedes → RBAC -->
+  <!-- ══════════════════════════════════════════════ -->
+  <line x1="245" y1="166" x2="295" y2="310" stroke="#2a4a8a" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <line x1="245" y1="226" x2="295" y2="320" stroke="#2a4a8a" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <line x1="245" y1="338" x2="295" y2="340" stroke="#2a4a8a" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <line x1="245" y1="450" x2="295" y2="360" stroke="#2a4a8a" stroke-width="1.5" stroke-dasharray="4,3"/>
+
+  <!-- ══════════════════════════════════════════════ -->
+  <!-- RBAC / ACCESS CONTROL -->
+  <!-- ══════════════════════════════════════════════ -->
+  <rect x="290" y="270" width="180" height="130" rx="12" fill="#131e35" stroke="#2a5050" stroke-width="1.5"/>
+  <text x="380" y="292" text-anchor="middle" fill="#4ecdc4" font-size="12" font-weight="700">🔐 Azure RBAC</text>
+  <text x="380" y="308" text-anchor="middle" fill="#7eb3ff" font-size="9">Gestión de Identidades</text>
+
+  <rect x="305" y="316" width="150" height="20" rx="4" fill="#0d2a2a"/>
+  <text x="380" y="330" text-anchor="middle" fill="#4ecdc4" font-size="9">👑 PowerUsers (100)</text>
+
+  <rect x="305" y="342" width="150" height="20" rx="4" fill="#0d2a2a"/>
+  <text x="380" y="356" text-anchor="middle" fill="#4ecdc4" font-size="9">👤 Normal (150)</text>
+
+  <rect x="305" y="368" width="150" height="20" rx="4" fill="#0d2a2a"/>
+  <text x="380" y="382" text-anchor="middle" fill="#4ecdc4" font-size="9">👁 Pasivo (50)</text>
+
+  <!-- Arrow RBAC → Storage -->
+  <line x1="470" y1="335" x2="520" y2="335" stroke="#4ecdc4" stroke-width="2"/>
+  <polygon points="520,330 530,335 520,340" fill="#4ecdc4"/>
+
+  <!-- ══════════════════════════════════════════════ -->
+  <!-- AZURE STORAGE ACCOUNT (center) -->
+  <!-- ══════════════════════════════════════════════ -->
+  <rect x="530" y="120" width="310" height="450" rx="14" fill="#131e35" stroke="#1e5fe0" stroke-width="2"/>
+  <rect x="530" y="120" width="310" height="42" rx="14" fill="#1a3080"/>
+  <rect x="530" y="148" width="310" height="14" fill="#1a3080"/>
+  <text x="685" y="148" text-anchor="middle" fill="#fff" font-size="13" font-weight="700">🗄 Azure Storage Account</text>
+  <text x="685" y="163" text-anchor="middle" fill="#a0c0ff" font-size="9">Blob Storage · 6 Contenedores</text>
+
+  <!-- Finanzas (CRÍTICO) -->
+  <rect x="548" y="176" width="275" height="56" rx="8" fill="#1a0d0d" stroke="#e05555" stroke-width="1.5"/>
+  <text x="568" y="200" fill="#ff8080" font-size="12" font-weight="700">💰 Finanzas</text>
+  <text x="568" y="216" fill="#ff6060" font-size="9">Acceso restringido · Alta criticidad</text>
+  <rect x="782" y="183" width="34" height="42" rx="6" fill="#3a0d0d"/>
+  <text x="799" y="210" text-anchor="middle" fill="#ff6060" font-size="18">🔒</text>
+
+  <!-- IT -->
+  <rect x="548" y="240" width="275" height="50" rx="8" fill="#0d1a2a" stroke="#2a5090" stroke-width="1"/>
+  <text x="568" y="262" fill="#7eb3ff" font-size="12" font-weight="600">💻 IT</text>
+  <text x="568" y="277" fill="#5a8acc" font-size="9">Infraestructura y sistemas</text>
+
+  <!-- Dirección (CRÍTICO) -->
+  <rect x="548" y="298" width="275" height="56" rx="8" fill="#1a0d0d" stroke="#e05555" stroke-width="1.5"/>
+  <text x="568" y="322" fill="#ff8080" font-size="12" font-weight="700">🏛 Dirección</text>
+  <text x="568" y="338" fill="#ff6060" font-size="9">Acceso restringido · Alta criticidad</text>
+  <rect x="782" y="305" width="34" height="42" rx="6" fill="#3a0d0d"/>
+  <text x="799" y="332" text-anchor="middle" fill="#ff6060" font-size="18">🔒</text>
+
+  <!-- RRHH -->
+  <rect x="548" y="362" width="275" height="50" rx="8" fill="#0d1a2a" stroke="#2a5090" stroke-width="1"/>
+  <text x="568" y="384" fill="#7eb3ff" font-size="12" font-weight="600">👥 RRHH</text>
+  <text x="568" y="399" fill="#5a8acc" font-size="9">Recursos Humanos</text>
+
+  <!-- Ventas -->
+  <rect x="548" y="420" width="275" height="50" rx="8" fill="#0d1a2a" stroke="#2a5090" stroke-width="1"/>
+  <text x="568" y="442" fill="#7eb3ff" font-size="12" font-weight="600">📊 Ventas</text>
+  <text x="568" y="457" fill="#5a8acc" font-size="9">Datos comerciales</text>
+
+  <!-- Proyectos -->
+  <rect x="548" y="478" width="275" height="50" rx="8" fill="#0d1a2a" stroke="#2a5090" stroke-width="1"/>
+  <text x="568" y="500" fill="#7eb3ff" font-size="12" font-weight="600">📁 Proyectos</text>
+  <text x="568" y="515" fill="#5a8acc" font-size="9">Documentación y gestión</text>
+
+  <!-- Logs label -->
+  <text x="685" y="548" text-anchor="middle" fill="#4ecdc4" font-size="10" font-weight="600">Logs de Acceso →</text>
+
+  <!-- ══════════════════════════════════════════════ -->
+  <!-- ARROW Storage → Pipeline (horizontal right) -->
+  <!-- ══════════════════════════════════════════════ -->
+  <line x1="840" y1="345" x2="880" y2="345" stroke="#4ecdc4" stroke-width="2.5"/>
+  <polygon points="880,339 892,345 880,351" fill="#4ecdc4"/>
+
+  <!-- ══════════════════════════════════════════════ -->
+  <!-- PYTHON PIPELINE (right of storage) -->
+  <!-- ══════════════════════════════════════════════ -->
+  <rect x="892" y="200" width="155" height="290" rx="12" fill="#0d2a1a" stroke="#27ae60" stroke-width="2"/>
+  <rect x="892" y="200" width="155" height="36" rx="12" fill="#145a30"/>
+  <rect x="892" y="222" width="155" height="14" fill="#145a30"/>
+  <text x="969" y="222" text-anchor="middle" fill="#fff" font-size="12" font-weight="700">🐍 Pipeline Python</text>
+  <text x="969" y="236" text-anchor="middle" fill="#a8e6c0" font-size="8">Feature Engineering</text>
+
+  <!-- Steps vertical -->
+  <rect x="907" y="250" width="125" height="38" rx="6" fill="#0a3a1a" stroke="#27ae60" stroke-width="1"/>
+  <text x="969" y="265" text-anchor="middle" fill="#4caf82" font-size="10" font-weight="600">Extracción</text>
+  <text x="969" y="279" text-anchor="middle" fill="#4caf82" font-size="8">Ingesta de logs</text>
+
+  <text x="969" y="302" text-anchor="middle" fill="#27ae60" font-size="16">↓</text>
+
+  <rect x="907" y="310" width="125" height="38" rx="6" fill="#0a3a1a" stroke="#27ae60" stroke-width="1"/>
+  <text x="969" y="325" text-anchor="middle" fill="#4caf82" font-size="10" font-weight="600">Feature Eng.</text>
+  <text x="969" y="339" text-anchor="middle" fill="#4caf82" font-size="8">Transformación</text>
+
+  <text x="969" y="362" text-anchor="middle" fill="#27ae60" font-size="16">↓</text>
+
+  <rect x="907" y="370" width="125" height="38" rx="6" fill="#0a3a1a" stroke="#27ae60" stroke-width="1"/>
+  <text x="969" y="385" text-anchor="middle" fill="#4caf82" font-size="10" font-weight="600">Modelo ML</text>
+  <text x="969" y="399" text-anchor="middle" fill="#4caf82" font-size="8">Detección</text>
+
+  <text x="969" y="424" text-anchor="middle" fill="#27ae60" font-size="10" font-weight="600">⚡ Anomalías</text>
+  <text x="969" y="440" text-anchor="middle" fill="#27ae60" font-size="9">en tiempo real</text>
+  <text x="969" y="456" text-anchor="middle" fill="#4caf82" font-size="9">🟢 Activo</text>
+
+  <!-- Footer -->
+  <text x="550" y="710" text-anchor="middle" fill="#3a5a8a" font-size="10">Proyecto: Detección de Anomalías · Azure Cloud Architecture · 300 usuarios · 7 sedes · 6 contenedores Blob</text>
+</svg>

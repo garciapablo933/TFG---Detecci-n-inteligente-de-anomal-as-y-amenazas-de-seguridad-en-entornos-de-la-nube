@@ -1,0 +1,29 @@
+# 1. Variables
+$rgName = "TFG_Usuarios"
+$dominio = "garciapablo933gmail.onmicrosoft.com"
+$csvPath = "UserCreateTemplate.csv"
+
+Write-Host "--- INICIANDO LIMPIEZA TOTAL DEL ENTORNO ---" -ForegroundColor Red
+
+# 2. Borrar el Grupo de Recursos (Borra Storage Account, Roles y Blobs de un golpe)
+if (Get-AzResourceGroup -Name $rgName -ErrorAction SilentlyContinue) {
+    Write-Host "Eliminando Grupo de Recursos: $rgName..." -ForegroundColor Yellow
+    Remove-AzResourceGroup -Name $rgName -Force -AsJob
+    Write-Host "  [+] Proceso de borrado de RG lanzado en segundo plano." -ForegroundColor Gray
+}
+
+# 3. Borrar los usuarios de Azure AD creados para el TFG
+Write-Host "Eliminando usuarios del dominio $dominio..." -ForegroundColor Yellow
+$usuariosTFG = Get-AzADUser | Where-Object { $_.UserPrincipalName -like "*@$dominio" -and $_.UserPrincipalName -ne "tu_admin@$dominio" }
+
+foreach ($u in $usuariosTFG) {
+    try {
+        Remove-AzADUser -ObjectId $u.Id -ErrorAction Stop
+        Write-Host "  [-] Usuario eliminado: $($u.UserPrincipalName)" -ForegroundColor Gray
+    } catch {
+        Write-Host "  [!] No se pudo eliminar a $($u.UserPrincipalName)" -ForegroundColor Red
+    }
+}
+
+Write-Host "--- LIMPIEZA COMPLETADA ---" -ForegroundColor Green
+Write-Host "Espera unos 2-3 minutos antes de volver a crear todo para que Azure procese los cambios." -ForegroundColor Cyan

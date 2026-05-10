@@ -1,0 +1,42 @@
+
+$rg = "TFG_Usuarios"
+$stName = (Get-AzStorageAccount -ResourceGroupName $rg | Where-Object {$_.StorageAccountName -like "stpablotfg*"}).StorageAccountName
+$context = (Get-AzStorageAccount -ResourceGroupName $rg -Name $stName).Context
+
+# 1. Definir una estructura alineada con los scripts de IA y Amenazas
+$estructura = @{
+    "finanzas"        = @("presupuesto_2026.pdf", "nominas_empleados.xlsx", "auditoria_interna.docx", "estrategia_2026.pdf")
+    "it-sistemas"     = @("config_firewall.conf", "claves_servidores.txt", "backups_db.bak", "db_client_secrets.bak")
+    "marketing"       = @("campaña_redes.png", "logos_vectoriales.ai", "plan_medios.pdf")
+    "recursos-humanos" = @("contratos_nuevos.zip", "evaluacion_desempeño.pdf")
+    "directivos"      = @("plan_expansion_secreto.pdf", "cuentas_suiza.txt")
+    "shared"          = @("plantilla_vacaciones.docx", "normas_oficina.pdf")
+}
+
+Write-Host "Construyendo estructura corporativa..." -ForegroundColor Cyan
+
+foreach ($dept in $estructura.Keys) {
+    # 2. Crear contenedor con Acceso Privado (Best Practice de Seguridad)
+    $container = New-AzStorageContainer -Name $dept -Context $context -Permission Off -ErrorAction SilentlyContinue
+    
+    # Definir nivel de criticidad según el departamento
+    $criticidad = if ($dept -match "directivos|it-sistemas|finanzas") { "High" } elseif ($dept -eq "shared") {"Low"} else { "Medium" }
+
+    foreach ($archivo in $estructura[$dept]) {
+        # 3. Crear contenido ficticio más "pesado" para simular datos reales
+        $tempPath = [System.IO.Path]::GetTempFileName()
+        "DATA_ENCRYPTED_HEADER: $($dept.ToUpper())_CONFIDENTIAL_CONTENT" | Out-File $tempPath
+        
+        # 4. Subir con Metadatos (Esto queda genial en la memoria del TFG)
+        $blobMetadata = @{"Department" = $dept; "Criticality" = $criticidad; "Owner" = "Admin_TFG"}
+        
+        Set-AzStorageBlobContent -File $tempPath -Container $dept -Blob $archivo -Context $context -Metadata $blobMetadata -Force > $null
+        
+        Write-Host "  [+] Recurso: $dept/$archivo (Criticidad: $criticidad)" -ForegroundColor Gray
+        
+        # Limpieza de archivo temporal
+        Remove-Item $tempPath
+    }
+}
+
+Write-Host "--- Estructura Corporativa Desplegada con Éxito ---" -ForegroundColor Green

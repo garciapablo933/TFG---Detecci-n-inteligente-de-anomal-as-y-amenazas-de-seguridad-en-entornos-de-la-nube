@@ -1,0 +1,51 @@
+# 1. Variables básicas
+$rgName = "TFG_Usuarios"
+$csvPath = "/home/pablo/UserCreateTemplate.csv"
+
+# Diccionario
+$rolPorDepartamento = @{
+    "it-sistemas"      = "Contributor"
+    "finanzas"         = "Reader"
+    "marketing"        = "Reader"
+    "recursos-humanos" = "Reader"
+    "directivos"       = "Owner"
+}
+
+Write-Host "--- Iniciando Asignación de Roles RBAC ---" -ForegroundColor Cyan
+
+if (Test-Path $csvPath) {
+    # IMPORTANTE: Saltamos la primera línea (Skip 1) para que la cabecera sea la correcta
+    $contenidoFiltro = Get-Content $csvPath | Select-Object -Skip 1
+    $usuariosCSV = $contenidoFiltro | ConvertFrom-Csv
+    
+    Write-Host "Procesando registros..." -ForegroundColor White
+
+    foreach ($linea in $usuariosCSV) {
+        # Extraemos con el nombre exacto de la columna
+        $upn = $linea."Nombre de usuario [userPrincipalName] Obligatorio"
+        $dept = $linea."Departamento [department]"
+        
+        if ($upn -and $dept) {
+            $rolName = $rolPorDepartamento[$dept]
+            
+            if ($rolName -and $rolName -ne "None") {
+                try {
+                    $azUser = Get-AzADUser -Filter "UserPrincipalName eq '$upn'" -ErrorAction Stop
+                    
+                    Write-Host "Asignando '$rolName' a $upn..." -ForegroundColor Yellow
+                    New-AzRoleAssignment -ObjectId $azUser.Id `
+                                         -RoleDefinitionName $rolName `
+                                         -ResourceGroupName $rgName `
+                                         -ErrorAction SilentlyContinue
+                    Write-Host "  [OK]" -ForegroundColor Green
+                }
+                catch {
+                    Write-Host "  [!] Error: No se encontró en Azure AD a $upn" -ForegroundColor Red
+                }
+            }
+        }
+    }
+} else {
+    Write-Host "❌ Archivo no encontrado" -ForegroundColor Red
+}
+Write-Host "--- Proceso Finalizado ---" -ForegroundColor Cyan
